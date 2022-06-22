@@ -1,7 +1,7 @@
 const button5 = document.querySelector("#plusFive")
 const btn10 = document.querySelector("#plusTen")
-const btn15 = document.querySelector("#plusFifteen")
-const btn20 = document.querySelector("#plusTwenty")
+const btn15 = document.querySelector("#plusFifteen");
+const btn20 = document.querySelector("#plusTwenty");
 
 const indicator = document.querySelector("#number-indicator")
 const disp = document.querySelector("#display-heading")
